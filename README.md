@@ -1,4 +1,4 @@
-# simscapeSelfBalancingPendulum
+# simscapeInvertedPendulum
 This repo demonstrates the control of an inverted pendulum. This system approximated as a linear system about the operating point (up-right vertical position). Control gains can either be chosen to satisfy desired closed loop system poles or can be choosen to minimze a cost function.
 
 ## Instructions

@@ -26,8 +26,18 @@ J=Q*Xerror+R*u. Q is a diagonal matrix containing weights for error in each stat
 
 ## Animations
 
-### Desired Operating Point at Middle of Slider
+### Desired operating point at middle of track
 
 |                            High Weight for Cart Position                       |                            High Weight for Pendulum Position                    |
 |:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
 |<img src="animations/middleSetPointHighGain.gif" width="400" height="150">| <img src="animations/middleSetPointLowGain.gif" width="400" height="150">|
+
+### Desired 0perating pint at end of track
+
+|                            High Weight for Cart Position                       |                            High Weight for Pendulum Position                    |
+|:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
+|<img src="animations/leftSetPointHighGain.gif" width="400" height="150">| <img src="animations/leftSetPointLowGain.gif" width="400" height="150">|
+
+### Sinusoidal motion as desired cart position
+
+<img src="animations/sinusoidalMotion.gif" width="400" height="150">

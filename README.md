@@ -30,4 +30,4 @@ J=Q*Xerror+R*u. Q is a diagonal matrix containing weights for error in each stat
 
 |                            High Weight for Cart Position                       |                            High Weight for Pendulum Position                    |
 |:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
-|<img src="animations/middleSetPointHighGain.gif" width="400" height="200">| <img src="animations/middleSetPointLowGain.gif" width="400" height="200">|
+|<img src="animations/middleSetPointHighGain.gif" width="400" height="150">| <img src="animations/middleSetPointLowGain.gif" width="400" height="150">|

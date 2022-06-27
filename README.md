@@ -22,8 +22,6 @@ The MATLAB function 'place' is used to select gains such that the feedback law u
 The gains can also be calculated so that a cost function of system states is minimized with respect to some criteria. The cost function is specified as follows:
 J=Q*Xerror+R*u. Q is a diagonal matrix containing weights for error in each state. R is chosen as a constant because this system only has one control input. The MATLAB function 'lqr' is used to determine the gain values.
 
-## Effect of Q weights
-
 ## Animations
 
 ### Desired operating point at middle of track
@@ -32,7 +30,7 @@ J=Q*Xerror+R*u. Q is a diagonal matrix containing weights for error in each stat
 |:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
 |<img src="animations/middleSetPointHighGain.gif" width="400" height="150">| <img src="animations/middleSetPointLowGain.gif" width="400" height="150">|
 
-### Desired 0perating pint at end of track
+### Desired operating pint at end of track
 
 |                            High Weight for Cart Position                       |                            High Weight for Pendulum Position                    |
 |:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
